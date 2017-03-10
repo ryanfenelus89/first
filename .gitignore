@@ -4,16 +4,17 @@ bin-debug/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
-
+i had a hotdog today
 # Other files and folders
 .settings/
-
+lets get it
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
-
+im in here
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+completed
